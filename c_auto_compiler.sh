@@ -1,6 +1,7 @@
 #!/bin/sh
 
-
+#-- this script it has be conveived to use with gcc compiler in a linux environment
+#-- This software is open-source and offered with no guarantees of any type
 
 exit_script(){
 	if [ $? -ne 0 ];then
