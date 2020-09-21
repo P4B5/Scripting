@@ -1,3 +1,4 @@
+
 # Scripting
 
 
@@ -95,3 +96,4 @@ to create a file + open VIM editor: `vim file.extension`
 
 
 #### visit linux manual: `man [command]` its a good source of wisdom
+
