@@ -34,6 +34,8 @@
 
 `fgrep, grep, egrep`: search strings in files
 
+`pwd`: current directory
+
 `cmp, diff`: compare files
 
 `cat`; write in the standard output the content of one or two files
